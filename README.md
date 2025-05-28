@@ -1,16 +1,24 @@
-## Hi there 👋
+## ✨ Hi there...  I'm Miaa 👋
+---
+<p>
+  <img src="img/kirby3" align="right" width="15%"/>
+  <samp>
+    <br>Soy una estudiante de Computación.
+    <br>
+    <br>🔹 Actualmente estoy aprendiendo lo que toque je
+    <br>🔹 
+    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    </samp>
+   <br>
+  <br>
+  <p align="center">
+    <br>
+  </p>
+  
+</p>
+
 
 <!--
-**MiaEst/MiaEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

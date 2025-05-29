@@ -1,7 +1,7 @@
 ## ✨ Hi there...  I'm Miaa 👋
 ---
 <p>
-  <img src="./kirby3" align="right" width="15%"/>
+  <img src="./kirby3.gif" align="right" width="15%"/>
   <samp>
     <br>Soy una estudiante de Computación.
     <br>

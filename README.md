@@ -5,7 +5,7 @@
   <samp>
    <h2>🚀 Sobre mí</h2>
 <ul>
-  <li>🌱 Actualmente aprendiendo <strong>HTML, CSS, JavaScript y Git</strong></li>
+  <li>🌱 Actualmente aprendiendo <strong>HTML, CSS, Java y Git</strong></li>
   <li>🔭 Explorando el mundo del desarrollo web</li>
   <li>📚 Interesada en: desarrollo frontend, diseño de interfaces, y programación creativa</li>
   <li>🧩 Me gusta resolver problemas y entender cómo funcionan las cosas desde dentro</li>

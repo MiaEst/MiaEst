@@ -2,7 +2,7 @@
 ---
 <p>
   <img src="./kirby3.gif" align="right" width="15%"/>
-  <samp>
+  
    <h2>🚀 Sobre mí</h2>
 <ul>
   <li>🌱 Actualmente aprendiendo <strong>HTML, CSS, Java y Git</strong></li>
@@ -11,7 +11,7 @@
   <li>🧩 Me gusta resolver problemas y entender cómo funcionan las cosas desde dentro</li>
   <li>⚡ Fun fact: ¡Me encanta el café y los videojuegos pixelados!</li>
 </ul>
-    </samp>
+    
    <br>
   
   <br>
